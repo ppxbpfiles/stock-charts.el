@@ -7,7 +7,8 @@ Emacs 上で動作する株式チャートブラウザと、東証全銘柄の�
 JPX（日本取引所グループ）公式データに基づき、**東証全上場銘柄（約4,400銘柄）を Consult でインクリメンタル検索**し、大画面チャートを表示できます。コードのみを入力した場合の銘柄名の自動補完機能もあります。
 
 <img width="1307" height="865" alt="screenshot" src="https://github.com/user-attachments/assets/6495e5ee-8522-4a37-98a2-ffff89d4f633" />
-<img width="1307" height="865" alt="screenshot2" src="https://github.com/user-attachments/assets/ad688afd-29e1-4585-b7ab-e044c2ee9895" />
+<img width="1307" height="865" alt="screenshot2" src="https://github.com/user-attachments/assets/7262524d-d86e-4d4f-9ba2-e52e3bc509a4" />
+
 
 
 ---
